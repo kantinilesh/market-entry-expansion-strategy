@@ -1,0 +1,11 @@
+country,population_m,urban_population_pct,disposable_income_usd,fitness_participation_pct,ecommerce_penetration_pct,home_fitness_demand_index,market_growth_cagr_pct,avg_selling_price_usd,import_logistics_cost_usd,competitor_intensity_score,regulatory_complexity_score,digital_ad_cost_index,data_status,is_domestic_benchmark,urban_population_m,income_tier
+United States,336.5,83.2,54800,38.5,16.2,88,3.8,950,115,4.8,1.5,100.0,verified,True,279.97,Tier 1 (High Income >k)
+Canada,40.5,81.8,42600,34.0,14.5,76,4.1,920,140,4.2,1.8,84.0,verified,True,33.13,Tier 1 (High Income >k)
+United Kingdom,68.2,84.5,38400,31.5,26.5,82,4.8,910,165,4.1,2.5,78.0,verified,False,57.63,Tier 1 (High Income >k)
+Germany,84.4,77.8,41200,29.0,18.4,79,5.2,960,155,3.6,3.2,72.0,verified,False,65.66,Tier 1 (High Income >k)
+Netherlands,18.0,92.8,43500,36.0,21.2,74,5.0,940,125,2.9,2.1,65.0,verified,False,16.7,Tier 1 (High Income >k)
+Australia,26.8,86.6,44100,41.0,17.5,78,5.6,1020,195,3.4,2.4,82.0,verified,False,23.21,Tier 1 (High Income >k)
+Singapore,6.0,100.0,42800,32.0,19.8,62,6.2,1050,110,2.7,2.0,58.0,verified,False,6.0,Tier 1 (High Income >k)
+United Arab Emirates,9.5,87.5,39200,27.5,18.0,71,7.8,1100,175,2.8,2.8,62.0,estimated,False,8.31,Tier 1 (High Income >k)
+Saudi Arabia,36.9,84.7,26500,21.0,15.2,68,8.5,1080,210,2.5,4.1,54.0,estimated,False,31.25,Tier 2 (Upper-Middle k-k)
+India,1440.0,36.4,3200,9.5,8.5,55,12.5,680,280,3.8,4.6,28.0,proxy,False,524.16,Tier 3 (Emerging <k)
